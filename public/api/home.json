@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "data":{
+    "topicList" :[
+      {
+        "id":1,
+        "title": "社会热点",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/15677225-5fe6715b50185209?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id":2,
+        "title": "手绘",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/15587250-560904ca9305f5fd.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      },
+      {
+        "id":3,
+        "title": "图书",
+        "imgUrl": "https://upload-images.jianshu.io/upload_images/16272731-298e3e4eea9e876c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/360/h/240"
+      }
+    ],
+    "articalList": [
+      {
+        "id":1,
+        "title":"开始写自己的读书手帐",
+        "desc": "自从前天下载了简书之后，无意间看到别人的读书手帐，非常的漂亮，很是喜欢。之后又搜集了很多关于手帐，读书笔记笔记的一些内容，不得不承认，我总觉得读..."
+      },
+      {
+        "id":2,
+        "title":"34岁小伙子性心理障碍并引发抑郁症，根源竟是一条常见的家规",
+        "desc": "李希34岁，在华南一所985院校取得硕士学位，学业、事业皆有成；人长得文质彬彬，谈吐非常有素养，家境优越。 可这么一个条件如此优秀的帅小伙子，却..."
+      },
+      {
+        "id":3,
+        "title":"4个阅读好习惯，让你受益无穷",
+        "desc": "近年来，人们开始重视自我成长，越来越多的人花时间读书，我也不例外。 以前我看书都是逐字逐句地读，认为只有这样，才能掌握全书的内容。所以我读书很慢..."
+      }
+    ],
+    "recomList": [
+      {
+        "id":1,
+        "imgurl":"http://cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+        "id":2,
+        "imgurl":"http://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+        "id":3,
+        "imgurl":"http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+        "id":4,
+        "imgurl":"http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ]
+  }
+}
